@@ -9,15 +9,15 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (3 pts)
 
-____ 1 pt: All expected attributes for `Computer` class are present
+__x__ 1 pt: All expected attributes for `Computer` class are present
 
-____ 1 pt: All expected methods for `Computer` class are present
+__X__ 1 pt: All expected methods for `Computer` class are present
 
-____ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
+__X__ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
 
 ### Level 2 (3 pts)
 
-____ 1 pt: All expected attributes for `ResaleShop` class are present
+___X_ 1 pt: All expected attributes for `ResaleShop` class are present
 
 ____ 1 pt: All expected methods for `ResaleShop` class are present
 

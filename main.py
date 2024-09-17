@@ -28,6 +28,7 @@ def create_computer(description: str,
     }
 
 def main():
+
     
     # First, let's make a computer
     computer = create_computer(
